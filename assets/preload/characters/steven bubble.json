@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				189,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "steven bubble idle"
+		},
+		{
+			"offsets": [
+				210,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "steven bubble down"
+		},
+		{
+			"offsets": [
+				250,
+				320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "steven bubble up"
+		},
+		{
+			"offsets": [
+				20,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "steven bubble right"
+		},
+		{
+			"offsets": [
+				270,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "steven bubble left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven bubble",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		233
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

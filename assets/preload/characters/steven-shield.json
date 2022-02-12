@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				487,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right lol"
+		},
+		{
+			"offsets": [
+				480,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down lol"
+		},
+		{
+			"offsets": [
+				480,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up lol"
+		},
+		{
+			"offsets": [
+				480,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformation",
+			"indices": [],
+			"name": "transformation"
+		},
+		{
+			"offsets": [
+				480,
+				-140
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left lol"
+		},
+		{
+			"offsets": [
+				480,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle lol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StevenShielded",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		233
+	],
+	"camera_position": [
+		-620,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-485,
+				250
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "pibo idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pibby",
+	"position": [
+		-60,
+		430
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		96,
+		209
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

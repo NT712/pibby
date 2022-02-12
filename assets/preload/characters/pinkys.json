@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1030,
+				-330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinky pie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-900,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pinky pie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1080,
+				-410
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pinky pie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1119,
+				-260
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pinky pie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1162,
+				-325
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pinky pie right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinky pie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		740,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

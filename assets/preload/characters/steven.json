@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				487,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				-230
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				481,
+				-101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				-140
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "transformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		253
+	],
+	"camera_position": [
+		-620,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

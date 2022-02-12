@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Stare idle"
+		},
+		{
+			"offsets": [
+				-41,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Stare idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Stare idle"
+		},
+		{
+			"offsets": [
+				-50,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Stare idle"
+		},
+		{
+			"offsets": [
+				-53,
+				-129
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Stare idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Stare",
+	"position": [
+		-230,
+		-160
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		220,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OswaldDodgeSprites Idle"
+		},
+		{
+			"offsets": [
+				-41,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "OswaldDodgeSprites Sing Left"
+		},
+		{
+			"offsets": [
+				-50,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OswaldDodgeSprites Sing Right"
+		},
+		{
+			"offsets": [
+				-50,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "OswaldDodgeSprites Sing Down"
+		},
+		{
+			"offsets": [
+				-53,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "OswaldDodgeSprites Sing Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OswaldDodgeSprites",
+	"position": [
+		-250,
+		-160
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		170,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

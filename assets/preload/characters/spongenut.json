@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-242
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sponi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sponi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-309
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sponi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sponi idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				156,
+				-189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sponi left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sponi",
+	"position": [
+		50,
+		-220
+	],
+	"healthicon": "spongenut",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		250,
+		118
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

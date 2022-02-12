@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				321,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tlight right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tlight idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tlight down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				590,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tlight left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tlight up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tlight",
+	"position": [
+		210,
+		0
+	],
+	"healthicon": "Tlight",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		110,
+		206
+	],
+	"camera_position": [
+		-519,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
