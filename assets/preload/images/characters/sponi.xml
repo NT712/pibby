@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sponi.png"><SubTexture name="sponi down0000" x="0" y="0" width="1017" height="716" frameX="0" frameY="0" frameWidth="1017" frameHeight="716" />
+<SubTexture name="sponi down0001" x="1017" y="0" width="1017" height="707" frameX="0" frameY="0" frameWidth="1017" frameHeight="707" />
+<SubTexture name="sponi down0002" x="2034" y="0" width="1017" height="696" frameX="0" frameY="0" frameWidth="1017" frameHeight="696" />
+<SubTexture name="sponi down0003" x="3051" y="0" width="1017" height="696" frameX="0" frameY="0" frameWidth="1017" frameHeight="696" />
+<SubTexture name="sponi left0000" x="0" y="716" width="1015" height="769" frameX="0" frameY="0" frameWidth="1015" frameHeight="769" />
+<SubTexture name="sponi left0001" x="1015" y="716" width="1015" height="769" frameX="0" frameY="0" frameWidth="1015" frameHeight="769" />
+<SubTexture name="sponi left0002" x="2030" y="716" width="1015" height="769" frameX="0" frameY="0" frameWidth="1015" frameHeight="769" />
+<SubTexture name="sponi left0003" x="3045" y="716" width="1015" height="769" frameX="0" frameY="0" frameWidth="1015" frameHeight="769" />
+<SubTexture name="sponi right0000" x="0" y="1485" width="1015" height="728" frameX="0" frameY="0" frameWidth="1015" frameHeight="728" />
+<SubTexture name="sponi right0001" x="1015" y="1485" width="1015" height="726" frameX="0" frameY="0" frameWidth="1015" frameHeight="726" />
+<SubTexture name="sponi right0002" x="2030" y="1485" width="1015" height="726" frameX="0" frameY="0" frameWidth="1015" frameHeight="726" />
+<SubTexture name="sponi right0003" x="3045" y="1485" width="1015" height="726" frameX="0" frameY="0" frameWidth="1015" frameHeight="726" />
+<SubTexture name="sponi up0000" x="0" y="2213" width="1015" height="919" frameX="0" frameY="0" frameWidth="1015" frameHeight="919" />
+<SubTexture name="sponi up0001" x="1015" y="2213" width="1015" height="919" frameX="0" frameY="0" frameWidth="1015" frameHeight="919" />
+<SubTexture name="sponi up0002" x="2030" y="2213" width="1015" height="919" frameX="0" frameY="0" frameWidth="1015" frameHeight="919" />
+<SubTexture name="sponi up0003" x="3045" y="2213" width="1015" height="919" frameX="0" frameY="0" frameWidth="1015" frameHeight="919" />
+<SubTexture name="sponi idle0000" x="0" y="3132" width="1017" height="767" frameX="0" frameY="0" frameWidth="1017" frameHeight="767" />
+<SubTexture name="sponi idle0001" x="1017" y="3132" width="1015" height="761" frameX="0" frameY="0" frameWidth="1015" frameHeight="761" />
+<SubTexture name="sponi idle0002" x="2032" y="3132" width="1015" height="753" frameX="0" frameY="0" frameWidth="1015" frameHeight="753" />
+<SubTexture name="sponi idle0003" x="3047" y="3132" width="1015" height="745" frameX="0" frameY="0" frameWidth="1015" frameHeight="745" />
+<SubTexture name="sponi idle0004" x="0" y="3899" width="1015" height="739" frameX="0" frameY="0" frameWidth="1015" frameHeight="739" />
+<SubTexture name="sponi idle0005" x="1015" y="3899" width="1015" height="739" frameX="0" frameY="0" frameWidth="1015" frameHeight="739" />
+<SubTexture name="sponi idle0006" x="2030" y="3899" width="1015" height="751" frameX="0" frameY="0" frameWidth="1015" frameHeight="751" />
+</TextureAtlas>

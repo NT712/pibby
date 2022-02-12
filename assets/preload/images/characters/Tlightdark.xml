@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tlight.png"><SubTexture name="Tlight down0000" x="1856" y="0" width="460" height="260" frameX="-324" frameY="-411" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight down0001" x="0" y="1634" width="470" height="256" frameX="-314" frameY="-415" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight right0000" x="1232" y="1258" width="398" height="358" frameX="-490" frameY="-301" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight right0001" x="823" y="1258" width="409" height="360" frameX="-484" frameY="-297" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight right0002" x="0" y="1258" width="409" height="376" frameX="-484" frameY="-290" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight left0000" x="1063" y="385" width="342" height="382" frameX="-561" frameY="-343" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight left0001" x="840" y="873" width="379" height="382" frameX="-524" frameY="-343" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight left0002" x="1477" y="0" width="379" height="382" frameX="-524" frameY="-343" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0000" x="409" y="1258" width="414" height="373" frameX="-211" frameY="-373" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0001" x="1063" y="0" width="414" height="385" frameX="-211" frameY="-361" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0002" x="418" y="481" width="413" height="390" frameX="-212" frameY="-356" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0003" x="0" y="873" width="415" height="385" frameX="-210" frameY="-361" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0004" x="0" y="481" width="418" height="392" frameX="-207" frameY="-361" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight idle0005" x="415" y="873" width="425" height="385" frameX="-200" frameY="-361" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight up0000" x="716" y="0" width="347" height="449" frameX="-259" frameY="-289" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight up0001" x="0" y="0" width="369" height="481" frameX="-237" frameY="-264" frameWidth="1280" frameHeight="1024" />
+<SubTexture name="Tlight up0002" x="369" y="0" width="347" height="452" frameX="-259" frameY="-286" frameWidth="1280" frameHeight="1024" />
+</TextureAtlas>

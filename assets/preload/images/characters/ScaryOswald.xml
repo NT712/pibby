@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ScaryOswald.png"><SubTexture name="ScaryOswald Idle0000" x="0" y="0" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0001" x="1124" y="0" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0002" x="2248" y="0" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0003" x="3372" y="0" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0004" x="0" y="934" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0005" x="1124" y="934" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0006" x="2248" y="934" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0007" x="3372" y="934" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0008" x="0" y="1868" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0009" x="1124" y="1868" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0010" x="2248" y="1868" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0011" x="3372" y="1868" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0012" x="0" y="2802" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0013" x="1124" y="2802" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0014" x="2248" y="2802" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0015" x="3372" y="2802" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0016" x="0" y="3736" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0017" x="1124" y="3736" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0018" x="2248" y="3736" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0019" x="3372" y="3736" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0020" x="0" y="4670" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0021" x="1124" y="4670" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0022" x="2248" y="4670" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0023" x="3372" y="4670" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0024" x="0" y="5604" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0025" x="1124" y="5604" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0026" x="2248" y="5604" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0027" x="3372" y="5604" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0028" x="0" y="6538" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Idle0029" x="1124" y="6538" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0000" x="2248" y="6538" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0001" x="3372" y="6538" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0002" x="0" y="7472" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0003" x="1124" y="7472" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0004" x="2248" y="7472" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0005" x="3372" y="7472" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0006" x="0" y="8406" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0007" x="1124" y="8406" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0008" x="2248" y="8406" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0009" x="3372" y="8406" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0010" x="0" y="9340" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0011" x="1124" y="9340" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0012" x="2248" y="9340" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0013" x="3372" y="9340" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Right0014" x="0" y="10274" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0000" x="1124" y="10274" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0001" x="2248" y="10274" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0002" x="3372" y="10274" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0003" x="0" y="11208" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0004" x="1124" y="11208" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0005" x="2248" y="11208" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0006" x="3372" y="11208" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0007" x="0" y="12142" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0008" x="1124" y="12142" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0009" x="2248" y="12142" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0010" x="3372" y="12142" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0011" x="0" y="13076" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0012" x="1124" y="13076" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0013" x="2248" y="13076" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Left0014" x="3372" y="13076" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0000" x="0" y="14010" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0001" x="1124" y="14010" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0002" x="2248" y="14010" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0003" x="3372" y="14010" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0004" x="0" y="14944" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0005" x="1124" y="14944" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0006" x="2248" y="14944" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0007" x="3372" y="14944" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0008" x="0" y="15878" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0009" x="1124" y="15878" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0010" x="2248" y="15878" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0011" x="3372" y="15878" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0012" x="0" y="16812" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0013" x="1124" y="16812" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Up0014" x="2248" y="16812" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0000" x="3372" y="16812" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0001" x="0" y="17746" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0002" x="1124" y="17746" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0003" x="2248" y="17746" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0004" x="3372" y="17746" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0005" x="0" y="18680" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0006" x="1124" y="18680" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0007" x="2248" y="18680" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0008" x="3372" y="18680" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0009" x="0" y="19614" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0010" x="1124" y="19614" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0011" x="2248" y="19614" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0012" x="3372" y="19614" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0013" x="0" y="20548" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+<SubTexture name="ScaryOswald Sing Down0014" x="1124" y="20548" width="1124" height="934" frameX="0" frameY="0" frameWidth="1124" frameHeight="934" />
+</TextureAtlas>

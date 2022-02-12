@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibo.png"><SubTexture name="pibo idle0000" x="0" y="0" width="273" height="387" frameX="-396" frameY="-269" frameWidth="700" frameHeight="700" />
+<SubTexture name="pibo idle0001" x="273" y="0" width="273" height="374" frameX="-393" frameY="-282" frameWidth="700" frameHeight="700" />
+<SubTexture name="pibo idle0002" x="546" y="0" width="273" height="362" frameX="-388" frameY="-294" frameWidth="700" frameHeight="700" />
+<SubTexture name="pibo idle0003" x="0" y="387" width="273" height="351" frameX="-388" frameY="-305" frameWidth="700" frameHeight="700" />
+<SubTexture name="pibo idle0004" x="273" y="387" width="273" height="345" frameX="-388" frameY="-311" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

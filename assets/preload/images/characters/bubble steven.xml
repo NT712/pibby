@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bubble steven.png"><SubTexture name="bubble steven idle0000" x="0" y="0" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0001" x="1008" y="0" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0002" x="2016" y="0" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0003" x="3024" y="0" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0004" x="4032" y="0" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0005" x="0" y="996" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0006" x="1008" y="996" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0007" x="2016" y="996" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0008" x="3024" y="996" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven idle0009" x="4032" y="996" width="1008" height="996" frameX="0" frameY="0" frameWidth="1008" frameHeight="996" />
+<SubTexture name="bubble steven up0000" x="0" y="1992" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven up0001" x="1022" y="1992" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven up0002" x="2044" y="1992" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven up0003" x="3066" y="1992" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven up0004" x="4088" y="1992" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven left0000" x="0" y="2981" width="1008" height="1002" frameX="0" frameY="0" frameWidth="1008" frameHeight="1002" />
+<SubTexture name="bubble steven left0001" x="1008" y="2981" width="1008" height="1002" frameX="0" frameY="0" frameWidth="1008" frameHeight="1002" />
+<SubTexture name="bubble steven left0002" x="2016" y="2981" width="1008" height="1002" frameX="0" frameY="0" frameWidth="1008" frameHeight="1002" />
+<SubTexture name="bubble steven left0003" x="3024" y="2981" width="1008" height="1002" frameX="0" frameY="0" frameWidth="1008" frameHeight="1002" />
+<SubTexture name="bubble steven left0004" x="4032" y="2981" width="1008" height="1002" frameX="0" frameY="0" frameWidth="1008" frameHeight="1002" />
+<SubTexture name="bubble steven down0000" x="0" y="3983" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven down0001" x="1022" y="3983" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven down0002" x="2044" y="3983" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven down0003" x="3066" y="3983" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven down0004" x="4088" y="3983" width="1022" height="989" frameX="0" frameY="0" frameWidth="1022" frameHeight="989" />
+<SubTexture name="bubble steven idle0010" x="0" y="4972" width="1060" height="1003" frameX="0" frameY="0" frameWidth="1060" frameHeight="1003" />
+<SubTexture name="bubble steven idle0011" x="1060" y="4972" width="1060" height="1003" frameX="0" frameY="0" frameWidth="1060" frameHeight="1003" />
+<SubTexture name="bubble steven idle0012" x="2120" y="4972" width="1060" height="1003" frameX="0" frameY="0" frameWidth="1060" frameHeight="1003" />
+<SubTexture name="bubble steven idle0013" x="3180" y="4972" width="1060" height="1003" frameX="0" frameY="0" frameWidth="1060" frameHeight="1003" />
+<SubTexture name="bubble steven idle0014" x="4240" y="4972" width="1060" height="1003" frameX="0" frameY="0" frameWidth="1060" frameHeight="1003" />
+</TextureAtlas>

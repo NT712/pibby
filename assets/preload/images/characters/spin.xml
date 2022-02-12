@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spin.png"><SubTexture name="spin idle0000" x="0" y="0" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin idle0001" x="2484" y="0" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin idle0002" x="0" y="3512" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin idle0003" x="2484" y="3512" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin left0000" x="0" y="7024" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin left0001" x="2484" y="7024" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin right0000" x="0" y="10536" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+<SubTexture name="spin right0001" x="2484" y="10536" width="2484" height="3512" frameX="0" frameY="0" frameWidth="2484" frameHeight="3512" />
+</TextureAtlas>

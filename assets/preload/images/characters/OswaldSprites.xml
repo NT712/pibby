@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OswaldSprites.png"><SubTexture name="OswaldSprites Idle0000" x="0" y="0" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0001" x="1049" y="0" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0002" x="2098" y="0" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0003" x="3147" y="0" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0004" x="0" y="882" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0005" x="1049" y="882" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0006" x="2098" y="882" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0007" x="3147" y="882" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0008" x="0" y="1764" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0009" x="1049" y="1764" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0010" x="2098" y="1764" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0011" x="3147" y="1764" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0012" x="0" y="2646" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Idle0013" x="1049" y="2646" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0000" x="2098" y="2646" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0001" x="3147" y="2646" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0002" x="0" y="3528" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0003" x="1049" y="3528" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0004" x="2098" y="3528" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0005" x="3147" y="3528" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0006" x="0" y="4410" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0007" x="1049" y="4410" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0008" x="2098" y="4410" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0009" x="3147" y="4410" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0010" x="0" y="5292" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0011" x="1049" y="5292" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0012" x="2098" y="5292" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0013" x="3147" y="5292" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0014" x="0" y="6174" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Down0015" x="1049" y="6174" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0000" x="2098" y="6174" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0001" x="3147" y="6174" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0002" x="0" y="7056" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0003" x="1049" y="7056" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0004" x="2098" y="7056" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0005" x="3147" y="7056" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0006" x="0" y="7938" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0007" x="1049" y="7938" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0008" x="2098" y="7938" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0009" x="3147" y="7938" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0010" x="0" y="8820" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0011" x="1049" y="8820" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0012" x="2098" y="8820" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0013" x="3147" y="8820" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Up0014" x="0" y="9702" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0000" x="1049" y="9702" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0001" x="2098" y="9702" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0002" x="3147" y="9702" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0003" x="0" y="10584" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0004" x="1049" y="10584" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0005" x="2098" y="10584" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0006" x="3147" y="10584" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0007" x="0" y="11466" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0008" x="1049" y="11466" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0009" x="2098" y="11466" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0010" x="3147" y="11466" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0011" x="0" y="12348" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0012" x="1049" y="12348" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0013" x="2098" y="12348" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Right0014" x="3147" y="12348" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0000" x="0" y="13230" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0001" x="1049" y="13230" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0002" x="2098" y="13230" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0003" x="3147" y="13230" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0004" x="0" y="14112" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0005" x="1049" y="14112" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0006" x="2098" y="14112" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0007" x="3147" y="14112" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0008" x="0" y="14994" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0009" x="1049" y="14994" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0010" x="2098" y="14994" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0011" x="3147" y="14994" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0012" x="0" y="15876" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0013" x="1049" y="15876" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+<SubTexture name="OswaldSprites Sing Left0014" x="2098" y="15876" width="1049" height="882" frameX="0" frameY="0" frameWidth="1049" frameHeight="882" />
+</TextureAtlas>

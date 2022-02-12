@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pinky pie.png"><SubTexture name="pinky pie idle0000" x="1065" y="401" width="381" height="394" frameX="0" frameY="0" frameWidth="381" frameHeight="394" />
+<SubTexture name="pinky pie idle0001" x="0" y="844" width="381" height="394" frameX="0" frameY="0" frameWidth="381" frameHeight="394" />
+<SubTexture name="pinky pie idle0002" x="1172" y="844" width="381" height="387" frameX="0" frameY="-7" frameWidth="381" frameHeight="394" />
+<SubTexture name="pinky pie down0000" x="1564" y="0" width="461" height="347" frameX="0" frameY="0" frameWidth="461" frameHeight="347" />
+<SubTexture name="pinky pie down0001" x="1564" y="347" width="461" height="333" frameX="0" frameY="0" frameWidth="461" frameHeight="333" />
+<SubTexture name="pinky pie down0002" x="1564" y="680" width="461" height="323" frameX="0" frameY="0" frameWidth="461" frameHeight="323" />
+<SubTexture name="pinky pie right0000" x="381" y="844" width="394" height="394" frameX="0" frameY="0" frameWidth="394" frameHeight="394" />
+<SubTexture name="pinky pie right0001" x="775" y="844" width="397" height="394" frameX="0" frameY="0" frameWidth="397" frameHeight="394" />
+<SubTexture name="pinky pie left0000" x="0" y="443" width="480" height="401" frameX="0" frameY="0" frameWidth="480" frameHeight="401" />
+<SubTexture name="pinky pie left0001" x="480" y="443" width="491" height="401" frameX="0" frameY="0" frameWidth="491" frameHeight="401" />
+<SubTexture name="pinky pie left0002" x="1065" y="0" width="499" height="401" frameX="0" frameY="0" frameWidth="499" frameHeight="401" />
+<SubTexture name="pinky pie up0000" x="710" y="0" width="355" height="416" frameX="0" frameY="0" frameWidth="355" frameHeight="416" />
+<SubTexture name="pinky pie up0001" x="355" y="0" width="355" height="433" frameX="0" frameY="0" frameWidth="355" frameHeight="433" />
+<SubTexture name="pinky pie up0002" x="0" y="0" width="355" height="443" frameX="0" frameY="0" frameWidth="355" frameHeight="443" />
+</TextureAtlas>
