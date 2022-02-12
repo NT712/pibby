@@ -1,0 +1,31 @@
+{
+	"storyName": "Friendship can't save us now...or can it",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "T",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dusk-till-dawn",
+			"Tlight",
+			[
+				255,
+				113,
+				255
+			]
+		]
+	],
+	"weekName": "WeekT"
+}
